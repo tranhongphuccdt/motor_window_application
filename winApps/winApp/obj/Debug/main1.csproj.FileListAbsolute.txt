@@ -1,0 +1,18 @@
+E:\work\RS232\rs232_prj\Projects\main1\main1\bin\Debug\main1.exe.config
+E:\work\RS232\rs232_prj\Projects\main1\main1\obj\Debug\main1.Form1.resources
+E:\work\RS232\rs232_prj\Projects\main1\main1\obj\Debug\main1.Properties.Resources.resources
+E:\work\RS232\rs232_prj\Projects\main1\main1\obj\Debug\main1.csproj.GenerateResource.Cache
+E:\work\RS232\rs232_prj\Projects\main1\main1\bin\Debug\main1.exe
+E:\work\RS232\rs232_prj\Projects\main1\main1\bin\Debug\main1.pdb
+E:\work\RS232\rs232_prj\Projects\main1\main1\obj\Debug\main1.exe
+E:\work\RS232\rs232_prj\Projects\main1\main1\obj\Debug\main1.pdb
+D:\Phuc\2022\adas-demos\acc\bare-metal\reference from Linh\RS232\rs232_prj\Projects\main1\main1\bin\Debug\main1.exe.config
+D:\Phuc\2022\adas-demos\acc\bare-metal\reference from Linh\RS232\rs232_prj\Projects\main1\main1\bin\Debug\main1.exe
+D:\Phuc\2022\adas-demos\acc\bare-metal\reference from Linh\RS232\rs232_prj\Projects\main1\main1\bin\Debug\main1.pdb
+D:\Phuc\2022\adas-demos\acc\bare-metal\reference from Linh\RS232\rs232_prj\Projects\main1\main1\obj\Debug\main1.Form1.resources
+D:\Phuc\2022\adas-demos\acc\bare-metal\reference from Linh\RS232\rs232_prj\Projects\main1\main1\obj\Debug\main1.Properties.Resources.resources
+D:\Phuc\2022\adas-demos\acc\bare-metal\reference from Linh\RS232\rs232_prj\Projects\main1\main1\obj\Debug\main1.csproj.GenerateResource.cache
+D:\Phuc\2022\adas-demos\acc\bare-metal\reference from Linh\RS232\rs232_prj\Projects\main1\main1\obj\Debug\main1.csproj.CoreCompileInputs.cache
+D:\Phuc\2022\adas-demos\acc\bare-metal\reference from Linh\RS232\rs232_prj\Projects\main1\main1\obj\Debug\main1.exe
+D:\Phuc\2022\adas-demos\acc\bare-metal\reference from Linh\RS232\rs232_prj\Projects\main1\main1\obj\Debug\main1.pdb
+D:\Phuc\2022\adas-demos\acc\bare-metal\reference from Linh\RS232\rs232_prj\Projects\main1\main1\obj\Debug\main1.csprojAssemblyReference.cache
